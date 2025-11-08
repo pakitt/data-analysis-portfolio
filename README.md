@@ -1,4 +1,4 @@
-# PaoloV-public
+# Paolo Vasta
 This repository showcases personal data analysis and iOS development work for portfolio purposes.
 
 # Data Analysis Portfolio
