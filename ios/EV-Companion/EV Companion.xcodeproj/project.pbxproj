@@ -1,0 +1,433 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		522F5E5B2B6482B200B9BA12 /* EV_CompanionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522F5E5A2B6482B200B9BA12 /* EV_CompanionApp.swift */; };
+		522F5E5D2B6482B200B9BA12 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522F5E5C2B6482B200B9BA12 /* ContentView.swift */; };
+		522F5E5F2B6482B300B9BA12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522F5E5E2B6482B300B9BA12 /* Assets.xcassets */; };
+		522F5E622B6482B300B9BA12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522F5E612B6482B300B9BA12 /* Preview Assets.xcassets */; };
+		522F5E692B6482F000B9BA12 /* ChargingCostskWh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522F5E682B6482F000B9BA12 /* ChargingCostskWh.swift */; };
+		522F5E6C2B64832C00B9BA12 /* MyEV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522F5E6B2B64832C00B9BA12 /* MyEV.swift */; };
+		522F5E6F2B64838500B9BA12 /* EVUsableSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522F5E6E2B64838500B9BA12 /* EVUsableSheet.swift */; };
+		522F5E712B64839F00B9BA12 /* UtilConv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522F5E702B64839F00B9BA12 /* UtilConv.swift */; };
+		522F5E732B6483B400B9BA12 /* Conversions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522F5E722B6483B400B9BA12 /* Conversions.swift */; };
+		522F5E752B6483CC00B9BA12 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522F5E742B6483CC00B9BA12 /* Utilities.swift */; };
+		522F5E772B6483E700B9BA12 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522F5E762B6483E700B9BA12 /* Settings.swift */; };
+		52A10BD62C50090C007D3544 /* SharedVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A10BD52C50090C007D3544 /* SharedVariables.swift */; };
+		52BAFD782DEB3C9700CFCEEC /* Conversions 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BAFD772DEB3C9700CFCEEC /* Conversions 3.swift */; };
+		52DF8A9B2DC3EFD300AF37DE /* SettingsMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DF8A9A2DC3EFCF00AF37DE /* SettingsMain.swift */; };
+		52EB91802D35C57C0064A5F2 /* Conversions 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EB917F2D35C57C0064A5F2 /* Conversions 2.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		522F5E572B6482B200B9BA12 /* EV Companion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EV Companion.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		522F5E5A2B6482B200B9BA12 /* EV_CompanionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EV_CompanionApp.swift; sourceTree = "<group>"; };
+		522F5E5C2B6482B200B9BA12 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		522F5E5E2B6482B300B9BA12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		522F5E612B6482B300B9BA12 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		522F5E682B6482F000B9BA12 /* ChargingCostskWh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChargingCostskWh.swift; sourceTree = "<group>"; };
+		522F5E6B2B64832C00B9BA12 /* MyEV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyEV.swift; sourceTree = "<group>"; };
+		522F5E6E2B64838500B9BA12 /* EVUsableSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EVUsableSheet.swift; sourceTree = "<group>"; };
+		522F5E702B64839F00B9BA12 /* UtilConv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UtilConv.swift; sourceTree = "<group>"; };
+		522F5E722B6483B400B9BA12 /* Conversions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conversions.swift; sourceTree = "<group>"; };
+		522F5E742B6483CC00B9BA12 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		522F5E762B6483E700B9BA12 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		52A10BD52C50090C007D3544 /* SharedVariables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedVariables.swift; sourceTree = "<group>"; };
+		52BAFD772DEB3C9700CFCEEC /* Conversions 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Conversions 3.swift"; sourceTree = "<group>"; };
+		52DF8A9A2DC3EFCF00AF37DE /* SettingsMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsMain.swift; sourceTree = "<group>"; };
+		52EB917F2D35C57C0064A5F2 /* Conversions 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Conversions 2.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		522F5E542B6482B200B9BA12 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		522F5E4E2B6482B200B9BA12 = {
+			isa = PBXGroup;
+			children = (
+				522F5E592B6482B200B9BA12 /* EV Companion */,
+				522F5E582B6482B200B9BA12 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		522F5E582B6482B200B9BA12 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				522F5E572B6482B200B9BA12 /* EV Companion.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		522F5E592B6482B200B9BA12 /* EV Companion */ = {
+			isa = PBXGroup;
+			children = (
+				522F5E5A2B6482B200B9BA12 /* EV_CompanionApp.swift */,
+				522F5E5C2B6482B200B9BA12 /* ContentView.swift */,
+				52A10BD52C50090C007D3544 /* SharedVariables.swift */,
+				522F5E6A2B64830300B9BA12 /* Views */,
+				522F5E5E2B6482B300B9BA12 /* Assets.xcassets */,
+				522F5E602B6482B300B9BA12 /* Preview Content */,
+			);
+			path = "EV Companion";
+			sourceTree = "<group>";
+		};
+		522F5E602B6482B300B9BA12 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				522F5E612B6482B300B9BA12 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		522F5E6A2B64830300B9BA12 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				522F5E682B6482F000B9BA12 /* ChargingCostskWh.swift */,
+				522F5E6D2B64837500B9BA12 /* Utilities & Conversions */,
+				52DF8A9C2DC3F06800AF37DE /* Settings tab */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		522F5E6D2B64837500B9BA12 /* Utilities & Conversions */ = {
+			isa = PBXGroup;
+			children = (
+				522F5E702B64839F00B9BA12 /* UtilConv.swift */,
+				522F5E722B6483B400B9BA12 /* Conversions.swift */,
+				52EB917F2D35C57C0064A5F2 /* Conversions 2.swift */,
+				52BAFD772DEB3C9700CFCEEC /* Conversions 3.swift */,
+				522F5E742B6483CC00B9BA12 /* Utilities.swift */,
+			);
+			path = "Utilities & Conversions";
+			sourceTree = "<group>";
+		};
+		52DF8A9C2DC3F06800AF37DE /* Settings tab */ = {
+			isa = PBXGroup;
+			children = (
+				522F5E6E2B64838500B9BA12 /* EVUsableSheet.swift */,
+				522F5E762B6483E700B9BA12 /* Settings.swift */,
+				52DF8A9A2DC3EFCF00AF37DE /* SettingsMain.swift */,
+				522F5E6B2B64832C00B9BA12 /* MyEV.swift */,
+			);
+			path = "Settings tab";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		522F5E562B6482B200B9BA12 /* EV Companion */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 522F5E652B6482B300B9BA12 /* Build configuration list for PBXNativeTarget "EV Companion" */;
+			buildPhases = (
+				522F5E532B6482B200B9BA12 /* Sources */,
+				522F5E542B6482B200B9BA12 /* Frameworks */,
+				522F5E552B6482B200B9BA12 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "EV Companion";
+			productName = "EV Companion";
+			productReference = 522F5E572B6482B200B9BA12 /* EV Companion.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		522F5E4F2B6482B200B9BA12 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					522F5E562B6482B200B9BA12 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = 522F5E522B6482B200B9BA12 /* Build configuration list for PBXProject "EV Companion" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 522F5E4E2B6482B200B9BA12;
+			productRefGroup = 522F5E582B6482B200B9BA12 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				522F5E562B6482B200B9BA12 /* EV Companion */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		522F5E552B6482B200B9BA12 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				522F5E622B6482B300B9BA12 /* Preview Assets.xcassets in Resources */,
+				522F5E5F2B6482B300B9BA12 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		522F5E532B6482B200B9BA12 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				522F5E5D2B6482B200B9BA12 /* ContentView.swift in Sources */,
+				522F5E6F2B64838500B9BA12 /* EVUsableSheet.swift in Sources */,
+				522F5E732B6483B400B9BA12 /* Conversions.swift in Sources */,
+				522F5E5B2B6482B200B9BA12 /* EV_CompanionApp.swift in Sources */,
+				52BAFD782DEB3C9700CFCEEC /* Conversions 3.swift in Sources */,
+				522F5E712B64839F00B9BA12 /* UtilConv.swift in Sources */,
+				522F5E6C2B64832C00B9BA12 /* MyEV.swift in Sources */,
+				52DF8A9B2DC3EFD300AF37DE /* SettingsMain.swift in Sources */,
+				522F5E772B6483E700B9BA12 /* Settings.swift in Sources */,
+				522F5E752B6483CC00B9BA12 /* Utilities.swift in Sources */,
+				52EB91802D35C57C0064A5F2 /* Conversions 2.swift in Sources */,
+				52A10BD62C50090C007D3544 /* SharedVariables.swift in Sources */,
+				522F5E692B6482F000B9BA12 /* ChargingCostskWh.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		522F5E632B6482B300B9BA12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = NRV6JKU2CR;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		522F5E642B6482B300B9BA12 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = NRV6JKU2CR;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		522F5E662B6482B300B9BA12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"EV Companion/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "EV Buddy";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vasta.evbuddy;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		522F5E672B6482B300B9BA12 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"EV Companion/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "EV Buddy";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vasta.evbuddy;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		522F5E522B6482B200B9BA12 /* Build configuration list for PBXProject "EV Companion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				522F5E632B6482B300B9BA12 /* Debug */,
+				522F5E642B6482B300B9BA12 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		522F5E652B6482B300B9BA12 /* Build configuration list for PBXNativeTarget "EV Companion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				522F5E662B6482B300B9BA12 /* Debug */,
+				522F5E672B6482B300B9BA12 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 522F5E4F2B6482B200B9BA12 /* Project object */;
+}
