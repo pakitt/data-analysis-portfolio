@@ -4,6 +4,8 @@ While living in Munich (Germany) between 2002 and 2018, I owned a small diesel c
 
 I started tracking, with increasing level of detail, my  18 km daily commute and fuel fill-ups to understand how and in which way would the two vehicle types compare, when factoring time of travel, weather (temperature), traffic patterns, etc.
 
+I gathered the data in several Excel files over the years. I then consolidated, cleaned up and analyzed them in Power BI.
+
 ## Data gathered daily from 2002 till 2018
 1350+ data points, including:
 - commute times to/from work
