@@ -13,12 +13,14 @@ This repository highlights projects that reflect my analytical thinking, curiosi
 
 ## 📊 Featured Personal Projects
 
-- **Hybrid Vehicle Fuel Efficiency Study**  
+- [**Hybrid Vehicle Fuel Efficiency Study**](https://github.com/pakitt/data-analysis-portfolio/tree/main/fueltracking)
+
   A long-term, self-initiated analysis designed to answer a practical question: *Was buying a hybrid car worth it?*  
   Using real-world data, I tracked and analyzed fuel consumption over time to evaluate efficiency under different temperatures, routes, and driving conditions.  
   Tools: Excel, statistical functions, and visual trend analysis.
 
-- **iOS App for EV Data and Cost Estimation**  
+- [**iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
+    
   A Swift-based prototype to calculate EV charging costs and compare efficiency metrics.  
   Developed as a personal project bridging my interest in technology, user experience, and applied data analytics.
 
@@ -44,15 +46,6 @@ This repository highlights projects that reflect my analytical thinking, curiosi
 
 ---
 
-## 📂 Repository Structure
-
-| Folder | Description |
-|---------|-------------|
-| `spreadsheets/` | Excel sheets used for quantitative analysis of fuel efficiency |
-| `ios/` | Swift projects linking app development and data analytics |
-
----
-
 ## 🪪 License
 
 © 2025 Paolo Vasta. All rights reserved.  
@@ -65,6 +58,6 @@ The content of this repository is made publicly available for **viewing and educ
 ## 📫 Contact
 
 If you’d like to discuss data analysis, product insight generation, or opportunities at the intersection of **technology and analytics**,  
-feel free to connect with me on [LinkedIn](https://www.linkedin.com/paolovasta).
+feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paolovasta).
 
 ---
