@@ -1,4 +1,5 @@
-# EV Companion app prototype
+#<img width="641" height="633" alt="App Icon" src="https://github.com/user-attachments/assets/0109f5ae-777c-446f-b948-9b474011dd5e" />
+ EV Companion app prototype
 
 This is an app prototype I wrote in Swift and Swift UI, initally meant for iOS17 & iOS18, and now ported on iOS26.
 
