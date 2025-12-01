@@ -2,7 +2,7 @@
 
 While living in Munich (Germany) between 2002 and 2018, I owned a small diesel car for several years before switching to a full hybrid in 2009 until 2018, when I left the country.
 
-I started tracking, with increasing level of detail, my  18 km daily commute and fuel fill-ups to understand how and in which way would the two vehicle types compare, when factoring time of travel, weather (temperature), traffic patterns, etc.
+I started tracking, with increasing level of detail, my 18 km daily commute and fuel fill-ups to understand how and in which way would the two vehicle types compare, when factoring time of travel, weather (temperature), traffic patterns, etc. Also, I wanted to see if there was anything I could do to reduce commute time and costs.
 
 I gathered the data in several Excel files over the years. I then consolidated, cleaned up and analyzed them in Power BI.
 The results are available [here.](https://github.com/pakitt/data-analysis-portfolio/blob/main/fueltracking/Fuel%20consumption%20tracking.pbix)
@@ -13,17 +13,17 @@ The results are available [here.](https://github.com/pakitt/data-analysis-portfo
 - fuel prices
 - fuel consumption (reported by the Multi Function Display (MFD) on all three vehicles
 - ambient temperature at destination 
-- route to/from work
+- route taken to/from work
 - average speed
 - accuracy of MFD - not part of this report (on average all three cars are about 5% optimistic)
 - overall Total Cost of Ownership (TCO) - not part of this report
 
 ## Reasons for tracking and analysis:
-- Will a hybrid used to commute in city traffic save me money on fuel vs a diesel powered vehicle? (Yes!)
+- Will a petrol hybrid vehicle used to commute in city traffic save me money on fuel vs a diesel powered vehicle? (Yes!)
 - How will time of day affect my commute time?
 - Which route is the best to/from work?
 - Which day of the week is the best/worst to commute?
-- Will the Generation 4 Prius offer significant advantage in terms of fuel consumption vs Generation 3?
+- Will the Prius 4th Generation offer significant advantage in terms of fuel consumption vs the Prius 3rd Generation?
 - Will summer and winter tyres have any significant influence on fuel consumption, considering that traffic patterns change significantly between the two periods of the year?
 
 ### The three vehicles I owned:
