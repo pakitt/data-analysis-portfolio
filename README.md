@@ -56,6 +56,6 @@ The content of this repository is made publicly available for **viewing and educ
 
 If you’d like to discuss data analysis, product insight generation, or opportunities at the intersection of **technology and analytics**,  
 feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paolovasta).
-Download my CV: 
+Download [my CV](assets/Paolo Vasta - CV - Data Analyst - 12-2025.pdf) 
 
 ---
