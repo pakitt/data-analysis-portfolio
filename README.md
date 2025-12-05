@@ -1,4 +1,4 @@
-# Data analysis and Swift programming portfolio
+# Paolo Vasta's Data analysis and Swift programming portfolio
 
 Welcome to my personal portfolio showcasing how I apply my background in **engineering** and **product marketing** to the world of **data analysis**.
 
@@ -56,5 +56,6 @@ The content of this repository is made publicly available for **viewing and educ
 
 If you’d like to discuss data analysis, product insight generation, or opportunities at the intersection of **technology and analytics**,  
 feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paolovasta).
+Download my CV: 
 
 ---
