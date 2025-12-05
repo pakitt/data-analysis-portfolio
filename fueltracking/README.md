@@ -1,4 +1,4 @@
-# Commuting in Munich:did petrol hybrids vs traditional diesel help in reducing my costs? could I improve trip times?
+# Commuting in Munich: did petrol hybrids vs traditional diesel help in reducing my costs? could I improve trip times?
 
 While living in Munich (Germany) between 2002 and 2018, I owned a small diesel car for several years before switching to a full hybrid in 2009 until 2018, when I left the country.
 
