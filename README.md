@@ -1,7 +1,4 @@
-# Paolo Vasta
-This repository showcases personal data analysis and iOS development work for portfolio purposes.
-
-# Data Analysis Portfolio
+# Data analysis and Swift programming portfolio
 
 Welcome to my personal portfolio showcasing how I apply my background in **engineering** and **product marketing** to the world of **data analysis**.
 
