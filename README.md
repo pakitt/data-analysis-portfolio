@@ -1,5 +1,7 @@
 # Paolo Vasta's Data analysis and Swift programming portfolio
 
+Hello! 👋 
+
 Welcome to my personal portfolio showcasing how I apply my background in **engineering** and **product marketing** to the world of **data analysis**.
 
 ---
@@ -11,6 +13,9 @@ Welcome to my personal portfolio showcasing how I apply my background in **engin
 - [💡 Focus Areas](#-focus-areas)
 - [📫 Contact](#-contact)
 - [🪪 License](#-license)
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=plastic&logo=datacamp&logoColor=03E860) ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=plastic&logo=microsoft&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=plastic&logo=LibreOffice&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+
 
 ---
 ## 👨🏻‍💻 About Me
@@ -70,7 +75,3 @@ Download [my CV](https://github.com/pakitt/data-analysis-portfolio/blob/main/ass
 
 The content of this repository is made publicly available for **viewing and educational reference only**.  
 **No reuse, modification, or redistribution** of any part of this repository is permitted without explicit written permission from the author.
-
----
-
-[![pages-build-deployment](https://github.com/pakitt/data-analysis-portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/pakitt/data-analysis-portfolio/actions/workflows/pages/pages-build-deployment)
