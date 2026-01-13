@@ -7,7 +7,7 @@ Welcome to my personal portfolio showcasing how I apply my background in **engin
 ## 📌 Table of Contents
 - [👨🏻‍💻 About Me](#about-me)
 - [📊 Featured Projects](#featured-projects)
-- [⚙️ Tools & Technologies](#tools--technologies)
+- [⚙️ Tools & Technologies](#tools-technologies)
 - [💡 Focus Areas](#focus-areas)
 - [📫 Contact](#contact)
 - [🪪 License](#license)
