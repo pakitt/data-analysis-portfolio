@@ -10,14 +10,12 @@ Welcome to my personal portfolio showcasing how I apply my background in **engin
 
 ## 📌 Table of Contents
 - [👨🏻‍💻 About Me](#%E2%80%8D-about-me)
+- [🔬 Thing I am interested in](#-things-i-am-interested-in)
 - [📊 Featured Projects](#-featured-projects)
 - [⚙️ Tools & Technologies](#%EF%B8%8F-tools--technologies)
 - [💡 Focus Areas](#-focus-areas)
 - [📫 Contact](#-contact)
 - [🪪 License](#-license)
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=plastic&logo=datacamp&logoColor=03E860) ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=plastic&logo=microsoft&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=plastic&logo=LibreOffice&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-
 
 ---
 ## 👨🏻‍💻 About Me
@@ -27,16 +25,29 @@ This repository highlights projects that reflect my analytical thinking, curiosi
 
 ---
 
+## 🔬 Things I am interested in
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=plastic&logo=datacamp&logoColor=03E860) ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=plastic&logo=microsoft&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=plastic&logo=LibreOffice&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+
+---
+
 ## 📊 Featured Projects
 
 - [**Hybrid Vehicle Fuel Efficiency Study**](https://github.com/pakitt/data-analysis-portfolio/tree/main/fueltracking)
 
-  A long-term, self-initiated analysis designed to answer a practical question: *Was buying a hybrid car worth it?*  
-  Using real-world data, I tracked and analyzed fuel consumption over time to evaluate efficiency under different temperatures, routes, and driving conditions.  
-  Tools: Excel, statistical functions, and visual trend analysis.
+  **What?** Real-world fuel data analysis to evaluate if hybrid ownership saved fuel/year, while identfying the best route for commuting.  
+ 
+  **Key insights:** Hybrids reduce fuel consumption costs by 15% on average, regardless of communiting route used.
+  
+  **Tech:** Excel, Power BI
+  
+  **Explore:**
+  1) [Power BI Desktop file](https://github.com/pakitt/data-analysis-portfolio/blob/main/fueltracking/Fuel%20consumption%20tracking.pbix)
+  2) [Sample chart image](assets/Fuelconsumption-SampleChart.png) 
 
-- [**iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
-    
+     <img src="assets/Fuelconsumption-SampleChart.png" alt="Fuel efficency chart" width="20%">
+
+-  <img width="3%" alt="App Icon" src="https://github.com/user-attachments/assets/0109f5ae-777c-446f-b948-9b474011dd5e" /> [**iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
+  
   A Swift-based prototype to calculate EV charging costs and compare efficiency metrics.  
   Developed as a personal project bridging my interest in technology, user experience, and applied data analytics.
 
@@ -64,7 +75,7 @@ This repository highlights projects that reflect my analytical thinking, curiosi
 
 ## 📫 Contact
 
-If you’d like to discuss data analysis, product insight generation, or opportunities at the intersection of **technology and analytics**, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paolovasta).
+If you’d like to discuss data analysis, product insight generation, or opportunities at the intersection of **technology and analytics**, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paolovasta) or [write me](mailto:pvjsie@icloud.com).
 
 Download [my CV](https://github.com/pakitt/data-analysis-portfolio/blob/main/assets/Paolo%20Vasta%20-%20CV%20-%20Data%20Analyst%20-%2012-2025.pdf?raw=1).
 
