@@ -27,16 +27,16 @@ The results are available [here.](https://github.com/pakitt/data-analysis-portfo
 - Will summer and winter tyres have any significant influence on fuel consumption, considering that traffic patterns change significantly between the two periods of the year?
 
 ### The three vehicles I owned:
-<img src="https://github.com/user-attachments/assets/20d2445e-a2ee-4eee-95c2-37f2840be681" width="500">
+<img src="https://github.com/user-attachments/assets/20d2445e-a2ee-4eee-95c2-37f2840be681" width="350">
 
 VW Polo 1.4 TDI from 2002 to 2009
 
 
-<img src="https://github.com/user-attachments/assets/c977bc9c-34e9-4699-bb1e-e1a931615951" width="500">
+<img src="https://github.com/user-attachments/assets/c977bc9c-34e9-4699-bb1e-e1a931615951" width="350">
 
 Toyota Prius 3rd Generation ("Gen3")  from 2009 to 2016
 
 
-<img src="https://github.com/user-attachments/assets/5567d8f6-9188-4768-9029-36d6885752db" width="500">
+<img src="https://github.com/user-attachments/assets/5567d8f6-9188-4768-9029-36d6885752db" width="350">
 
 Toyota Prius 4th Generation ("Gen4") from 2016 to 2018
