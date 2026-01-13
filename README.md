@@ -5,7 +5,7 @@ Welcome to my personal portfolio showcasing how I apply my background in **engin
 ---
 
 ## 📌 Table of Contents
-- [👨🏻‍💻 About Me](#about-me)
+- [👨🏻‍💻 About Me](#👨🏻‍💻-About-Me)
 - [📊 Featured Projects](#featured-projects)
 - [⚙️ Tools & Technologies](#tools-technologies)
 - [💡 Focus Areas](#focus-areas)
@@ -13,7 +13,7 @@ Welcome to my personal portfolio showcasing how I apply my background in **engin
 - [🪪 License](#license)
 
 ---
-## 👨🏻‍💻 About Me {#about-me}
+## 👨🏻‍💻 About Me
 After many years in the B2B technology sector, I began deepening my expertise in **data-driven decision making** — exploring how structured analysis, visualization, and clear metrics can guide better business and product outcomes.  
 
 This repository highlights projects that reflect my analytical thinking, curiosity, and commitment to evidence-based insight generation.
