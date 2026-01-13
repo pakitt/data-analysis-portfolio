@@ -2,7 +2,7 @@
 
 # An iOS app prototype: EV Companion
 
-The [EV Compaion app](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios/EV-Companion) is a working prototype I wrote in [Swift](https://www.swift.org/) and [Swift UI](https://developer.apple.com/swiftui/) in [Xcode](https://developer.apple.com/xcode), initally meant for iOS17 & iOS18, and now ported to [iOS26](https://developer.apple.com/ios/), adopting Apple's new [Liquid Glass UI](https://www.youtube.com/watch?v=jGztGfRujSE).
+The [EV Companion app](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios/EV-Companion) is a working prototype I wrote in [Swift](https://www.swift.org/) and [Swift UI](https://developer.apple.com/swiftui/) in [Xcode](https://developer.apple.com/xcode), initally meant for iOS17 & iOS18, and now ported to [iOS26](https://developer.apple.com/ios/), adopting Apple's new [Liquid Glass UI](https://www.youtube.com/watch?v=jGztGfRujSE).
 
 The EV Companion app helps EV drivers answering questions like:
 - how much is my charging session going to be?
