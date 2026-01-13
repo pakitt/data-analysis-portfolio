@@ -1,55 +1,73 @@
-# Paolo Vasta's Data analysis and Swift programming portfolio
+# Paolo Vasta's Data analysis portfolio
 
-![2026-01-13_PaoloVastacropped](https://github.com/user-attachments/assets/499d795f-76d6-4176-b15c-4e5ee0425921)
+Data analyst with an engineering and B2B product-marketing background, focused on extracting practical insights from real-world datasets using Python, Excel, and Power BI.
 
-Hello, I am Paolo! 👋 
+This portfolio showcases end-to-end analytical work: data preparation, exploration, visualization, and insight generation.
 
-Welcome to my personal portfolio showcasing how I apply my background in **engineering** and **product marketing** to the world of **data analysis**.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/499d795f-76d6-4176-b15c-4e5ee0425921" width="180">
+</p>
 
 ---
 
 ## 📌 Table of Contents
-- [👨🏻‍💻 About Me](#%E2%80%8D-about-me)
-- [🔬 Thing I am interested in](#-things-i-am-interested-in)
-- [📊 Featured Projects](#-featured-projects)
-- [⚙️ Tools & Technologies](#%EF%B8%8F-tools--technologies)
-- [💡 Focus Areas](#-focus-areas)
-- [📫 Contact](#-contact)
-- [🪪 License](#-license)
+- [About Me]([#%E2%80%8D-about-me)
+- [Interests](#-interests)
+- [Featured Projects](#-featured-projects)
+- [Tools & Technologies]([#%EF%B8%8F-tools--technologies)
+- [Focus Areas](#-focus-areas)
+- [Contact](#-contact)
+- [License](#-license)
 
 ---
 ## 👨🏻‍💻 About Me
-After many years in the B2B technology sector, I began deepening my expertise in **data-driven decision making** — exploring how structured analysis, visualization, and clear metrics can guide better business and product outcomes.  
 
-This repository highlights projects that reflect my analytical thinking, curiosity, and commitment to evidence-based insight generation.
+I bring an engineering mindset to data analysis, with a strong focus on structure, measurement, and decision support.
+My background in B2B product marketing informs how I frame questions, interpret results, and communicate insights to non-technical stakeholders.
 
 ---
 
-## 🔬 Things I am interested in
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=plastic&logo=datacamp&logoColor=03E860) ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=plastic&logo=microsoft&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=plastic&logo=LibreOffice&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+## 🔬 Interests
+
+Primary focus:
+- Data analysis with Python (pandas, numpy, matplotlib)
+- Business analysis and visualization with Excel and Power BI
+- Structured problem-solving applied to real-world datasets
+
+Supporting tools and environments:
+- SQL (foundations)
+- Swift & Xcode (iOS prototyping), Visual Studio (Python scripting)
+- GitHub, Jira
+- macOS, Linux, Windows
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
 ---
 
 ## 📊 Featured Projects
 
-- [**Hybrid Vehicle Fuel Efficiency Study**](https://github.com/pakitt/data-analysis-portfolio/tree/main/fueltracking)
+- [**📊 Hybrid Vehicle Fuel Efficiency Study**](https://github.com/pakitt/data-analysis-portfolio/tree/main/fueltracking)
 
-  **What?** Real-world fuel data analysis to evaluate if hybrid ownership saved fuel/year, while identfying the best route for commuting.  
+  **Goal:**
+  Evaluate real-world fuel consumption data to determine whether hybrid ownership delivers measurable cost savings and to identify the most efficient commuting route.
  
-  **Key insights:** Hybrids reduce fuel consumption costs by 15% on average, regardless of communiting route used.
+  **Key insight:**
+  Hybrid usage reduced fuel costs by approximately **15% on average**, with consistent savings across different commuting routes.
   
-  **Tech:** Excel, Power BI
+  **Tools:**
+  Excel, Power BI
   
   **Explore:**
   1) [Power BI Desktop file](https://github.com/pakitt/data-analysis-portfolio/blob/main/fueltracking/Fuel%20consumption%20tracking.pbix)
-  2) [Sample chart image](assets/Fuelconsumption-SampleChart.png) 
+  2) Sample visualization:
+ 
+<p align="center">
+  <img src="assets/Fuelconsumption-SampleChart.png" width="600" alt="Fuel efficiency chart">
+</p>
 
-     <img src="assets/Fuelconsumption-SampleChart.png" alt="Fuel efficency chart" width="20%">
+-  ### 🚗 iOS App for EV Data and Cost Estimation
 
--  <img width="3%" alt="App Icon" src="https://github.com/user-attachments/assets/0109f5ae-777c-446f-b948-9b474011dd5e" /> [**iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
-  
-  A Swift-based prototype to calculate EV charging costs and compare efficiency metrics.  
-  Developed as a personal project bridging my interest in technology, user experience, and applied data analytics.
+Swift-based prototype for estimating EV charging costs and comparing efficiency metrics using user-input and consumption data.
 
 ---
 
@@ -69,15 +87,17 @@ This repository highlights projects that reflect my analytical thinking, curiosi
 - Translating complex technical data into actionable insights  
 - Understanding user behavior and performance metrics  
 - Evaluating ROI and efficiency using real-world data  
-- Applying structured analytical thinking from an engineering mindset  
+- Applying structured, engineering-driven analytical thinking  
 
 ---
 
 ## 📫 Contact
 
-If you’d like to discuss data analysis, product insight generation, or opportunities at the intersection of **technology and analytics**, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paolovasta) or [write me](mailto:pvjsie@icloud.com).
+I am open to data analyst and analytics roles, particularly where technology and business insight intersect.
 
-Download [my CV](https://github.com/pakitt/data-analysis-portfolio/blob/main/assets/Paolo%20Vasta%20-%20CV%20-%20Data%20Analyst%20-%2012-2025.pdf?raw=1).
+- [LinkedIn](https://www.linkedin.com/in/paolovasta): https://www.linkedin.com/in/paolovasta
+- [Email](mailto:pvjsie@icloud.com): pvjsie@icloud.com
+- [CV](https://github.com/pakitt/data-analysis-portfolio/blob/main/assets/Paolo%20Vasta%20-%20CV%20-%20Data%20Analyst%20-%2012-2025.pdf?raw=1)
 
 ---
 
