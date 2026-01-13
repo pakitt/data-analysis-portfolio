@@ -6,11 +6,11 @@ Welcome to my personal portfolio showcasing how I apply my background in **engin
 
 ## 📌 Table of Contents
 - [👨🏻‍💻 About Me](#%E2%80%8D-about-me)
-- [📊 Featured Projects](#featured-projects)
-- [⚙️ Tools & Technologies](#tools-technologies)
-- [💡 Focus Areas](#focus-areas)
-- [📫 Contact](#contact)
-- [🪪 License](#license)
+- [📊 Featured Projects](#-featured-projects)
+- [⚙️ Tools & Technologies](#%EF%B8%8F-tools--technologies)
+- [💡 Focus Areas](#-focus-areas)
+- [📫 Contact](#-contact)
+- [🪪 License](#-license)
 
 ---
 ## 👨🏻‍💻 About Me
