@@ -72,4 +72,4 @@ The content of this repository is made publicly available for **viewing and educ
 **No reuse, modification, or redistribution** of any part of this repository is permitted without explicit written permission from the author.
 
 
----
+[![pages-build-deployment](https://github.com/pakitt/data-analysis-portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/pakitt/data-analysis-portfolio/actions/workflows/pages/pages-build-deployment)
