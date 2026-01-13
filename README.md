@@ -64,8 +64,7 @@ This repository highlights projects that reflect my analytical thinking, curiosi
 
 ## 📫 Contact
 
-If you’d like to discuss data analysis, product insight generation, or opportunities at the intersection of **technology and analytics**,  
-feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paolovasta).
+If you’d like to discuss data analysis, product insight generation, or opportunities at the intersection of **technology and analytics**, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paolovasta).
 
 Download [my CV](https://github.com/pakitt/data-analysis-portfolio/blob/main/assets/Paolo%20Vasta%20-%20CV%20-%20Data%20Analyst%20-%2012-2025.pdf?raw=1).
 
