@@ -1,6 +1,8 @@
 # Paolo Vasta's Data analysis and Swift programming portfolio
 
-Hello! 👋 
+![2026-01-13_PaoloVastacropped](https://github.com/user-attachments/assets/499d795f-76d6-4176-b15c-4e5ee0425921)
+
+Hello, I am Paolo! 👋 
 
 Welcome to my personal portfolio showcasing how I apply my background in **engineering** and **product marketing** to the world of **data analysis**.
 
