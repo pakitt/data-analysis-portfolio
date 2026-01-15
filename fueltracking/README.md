@@ -106,7 +106,7 @@ These vehicles represent a progression from traditional diesel to successive gen
 ## Dashboard & analysis file
 
 The complete interactive Power BI report is available here and includes route comparisons, time-of-day analysis, and vehicle efficiency breakdowns:  
-👉 **[Fuel consumption & commute analysis (Power BI)](https://github.com/pakitt/data-analysis-portfolio/blob/main/fueltracking/Fuel%20consumption%20tracking.pbix)**
+👉 **[Fuel consumption & commute analysis (Power BI)](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/fueltracking/Fuel%20consumption%20tracking.pbix)**
 
 --- 
 
