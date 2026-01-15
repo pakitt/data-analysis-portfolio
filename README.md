@@ -14,7 +14,7 @@ This portfolio showcases end-to-end analytical work: data preparation, explorati
 - [About Me](#%E2%80%8D-about-me)
 - [Interests](#-interests)
 - [Featured Projects](#-featured-projects)
-- [Tools & Technologies]([#%EF%B8%8F-tools--technologies)
+- [Tools & Technologies](#%EF%B8%8F-tools--technologies)
 - [Focus Areas](#-focus-areas)
 - [Contact](#-contact)
 - [License](#-license)
