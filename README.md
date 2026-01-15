@@ -11,10 +11,10 @@ This portfolio showcases end-to-end analytical work: data preparation, explorati
 ---
 
 ## 📌 Table of Contents
-- [About Me]([#%E2%80%8D-about-me)
+- [About Me]([#-about-me)
 - [Interests](#-interests)
 - [Featured Projects](#-featured-projects)
-- [Tools & Technologies]([#%EF%B8%8F-tools--technologies)
+- [Tools & Technologies]([#-tools--technologies)
 - [Focus Areas](#-focus-areas)
 - [Contact](#-contact)
 - [License](#-license)
