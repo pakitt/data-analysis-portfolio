@@ -95,9 +95,9 @@ Swift-based prototype for estimating EV charging costs and comparing efficiency 
 
 I am open to data analyst and analytics roles, particularly where technology and business insight intersect.
 
-- [LinkedIn](https://www.linkedin.com/in/paolovasta): https://www.linkedin.com/in/paolovasta
-- [Email](mailto:pvjsie@icloud.com): pvjsie@icloud.com
-- [CV](https://github.com/pakitt/data-analysis-portfolio/blob/main/assets/Paolo%20Vasta%20-%20CV%20-%20Data%20Analyst%20-%2012-2025.pdf?raw=1)
+- [LinkedIn](https://www.linkedin.com/in/paolovasta)
+- [Email](mailto:pvjsie@icloud.com)
+- [CV](https://github.com/pakitt/data-analysis-portfolio/blob/main/assets/Paolo%20Vasta%20-%20CV%20-%20Data%20Analyst.pdf?raw=1)
 
 ---
 
