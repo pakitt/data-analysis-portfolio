@@ -97,7 +97,7 @@ I am open to data analyst and analytics roles, particularly where technology and
 
 - [LinkedIn](https://www.linkedin.com/in/paolovasta)
 - [Email](mailto:pvjsie@icloud.com)
-- [CV](https://github.com/pakitt/data-analysis-portfolio/blob/main/assets/Paolo%20Vasta%20-%20CV%20-%20Data%20Analyst.pdf?raw=1)
+- [CV](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/assets/Paolo%20Vasta%20-%20CV%20-%20Data%20Analyst.pdf)
 
 ---
 
