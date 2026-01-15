@@ -65,7 +65,7 @@ Supporting tools and environments:
   <img src="assets/Fuelconsumption-SampleChart.png" width="600" alt="Fuel efficiency chart">
 </p>
 
--  ### 🚗 iOS App for EV Data and Cost Estimation
+-  [**🚗 iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
 
 Swift-based prototype for estimating EV charging costs and comparing efficiency metrics using user-input and consumption data.
 
