@@ -1,16 +1,17 @@
 # Paolo Vasta's Data analysis portfolio
 
-Data analyst with an engineering and B2B product-marketing background, focused on extracting practical insights from real-world datasets using Python, Excel, and Power BI.
+<img src="https://github.com/user-attachments/assets/499d795f-76d6-4176-b15c-4e5ee0425921" width="100" align="right" />   
 
-This portfolio showcases end-to-end analytical work: data preparation, exploration, visualization, and insight generation.
+I am a data analyst with an engineering and B2B product marketing background. 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/499d795f-76d6-4176-b15c-4e5ee0425921" width="180">
-</p>
+My past professional and educational experience shapes how I frame questions, interpret results, and communicate actionable insights to non-technical stakeholders. 
+
+I focus on extracting practical value from real-world data using Python, Excel, and Power BI.
+<br clear="right" />
+
 
 ---
-
-## 📌 Table of Contents
+<!-- ## 📌 Table of Contents
 - [About Me](#%E2%80%8D-about-me)
 - [Interests](#-interests)
 - [Featured Projects](#-featured-projects)
@@ -19,23 +20,17 @@ This portfolio showcases end-to-end analytical work: data preparation, explorati
 - [Contact](#-contact)
 - [License](#-license)
 
----
-## 👨🏻‍💻 About Me
+--- -->
 
-I bring an engineering mindset to data analysis, with a strong focus on structure, measurement, and decision support.
-My background in B2B product marketing informs how I frame questions, interpret results, and communicate insights to non-technical stakeholders.
-
----
-
-## 🔬 Interests
+## 🔬 Interests, Tools & Technlogies
 
 Primary focus:
-- Data analysis with Python (pandas, numpy, matplotlib)
-- Business analysis and visualization with Excel and Power BI
-- Structured problem-solving applied to real-world datasets
+- **Data analysis** with Python (pandas, numpy, matplotlib) and Excel
+- **Business analysis** and **visualization** with Excel and Power BI
+- Structured **problem-solving** applied to real-world datasets
 
 Supporting tools and environments:
-- SQL (foundations)
+- SQL (foundations; **data handling**)
 - Swift & Xcode (iOS prototyping), Visual Studio (Python scripting)
 - GitHub, Jira
 - macOS, Linux, Windows
@@ -46,7 +41,7 @@ Supporting tools and environments:
 
 ## 📊 Featured Projects
 
-- [**📊 Hybrid Vehicle Fuel Efficiency Study**](https://github.com/pakitt/data-analysis-portfolio/tree/main/fueltracking)
+1. [**📊 Hybrid Vehicle Fuel Efficiency Study**](https://github.com/pakitt/data-analysis-portfolio/tree/main/fueltracking)
 
   **Goal:**
   Evaluate real-world fuel consumption data to determine whether hybrid ownership delivers measurable cost savings and to identify the most efficient commuting route.
@@ -58,36 +53,25 @@ Supporting tools and environments:
   Excel, Power BI
   
   **Explore:**
-  1) [Power BI Desktop file](https://github.com/pakitt/data-analysis-portfolio/blob/main/fueltracking/Fuel%20consumption%20tracking.pbix)
-  2) Sample visualization:
+  - [Power BI Desktop file](https://github.com/pakitt/data-analysis-portfolio/blob/main/fueltracking/Fuel%20consumption%20tracking.pbix)
+  - Sample visualization:
  
 <p align="center">
   <img src="assets/Fuelconsumption-SampleChart.png" width="600" alt="Fuel efficiency chart">
 </p>
 
--  [**🚗 iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
+2.  [**🚗 iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
 
 Swift-based prototype for estimating EV charging costs and comparing efficiency metrics using user-input and consumption data.
 
 ---
 
-## ⚙️ Tools & Technologies
+## 💡 Focus Areas & Analytical Edge
 
-| Area | Tools |
-|-------|--------|
-| **Data Analysis** | Python (pandas, numpy, matplotlib), Excel |
-| **Visualization** | Excel charts, Matplotlib, Power BI |
-| **Data Handling** | CSV, XLSX, SQL basics |
-| **Development** | Swift & Xcode, GitHub |
-
----
-
-## 💡 Focus Areas
-
-- Translating complex technical data into actionable insights  
-- Understanding user behavior and performance metrics  
-- Evaluating ROI and efficiency using real-world data  
-- Applying structured, engineering-driven analytical thinking  
+- Engineering-led data analysis focused on efficiency, cost, and performance trade-offs
+- Product-oriented mindset: framing analytical questions around decisions, not just metrics
+- Strong experience working with longitudinal, real-world datasets
+- Clear communication of insights for non-technical stakeholders
 
 ---
 
