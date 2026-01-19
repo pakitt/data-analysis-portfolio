@@ -4,9 +4,9 @@
 
 I am a data analyst with an engineering and B2B product marketing background. 
 
-My past professional and educational experience shapes how I frame questions, interpret results, and communicate actionable insights to non-technical stakeholders. 
+My past professional and educational experience in multinational companies shapes how I frame questions, interpret results, and communicate actionable insights to non-technical stakeholders. 
 
-I focus on extracting practical value from real-world data using Python, Excel, and Power BI.
+I focus on extracting practical value from real-world data using Python, SQL, and Power BI.
 <br clear="right" />
 
 
@@ -25,12 +25,13 @@ I focus on extracting practical value from real-world data using Python, Excel, 
 ## 🔬 Interests, Tools & Technlogies
 
 Primary focus:
-- **Data analysis** with Python (pandas, numpy, matplotlib) and Excel
+- **ETL**
+- **Data analysis** with Python (pandas, numpy, matplotlib) and SQL (PostgreSQL & T-SQL)
 - **Business analysis** and **visualization** with Excel and Power BI
 - Structured **problem-solving** applied to real-world datasets
 
 Supporting tools and environments:
-- SQL (foundations; **data handling**)
+- SQL (foundations & **data handling**; Microsoft SQL Server)
 - Swift & Xcode (iOS prototyping), Visual Studio (Python scripting)
 - GitHub, Jira
 - macOS, Linux, Windows
@@ -64,6 +65,10 @@ Supporting tools and environments:
 
 Swift-based prototype for estimating EV charging costs and comparing efficiency metrics using user-input and consumption data.
 
+<p align="center">
+  <img width="276" height="528" alt="EVCompanionApp - Charging Costs - Good" src="https://github.com/user-attachments/assets/868ccc35-93eb-49a0-8703-f62c02ce1cdb" />
+</p>
+
 ---
 
 ## 💡 Focus Areas & Analytical Edge
@@ -80,6 +85,7 @@ Swift-based prototype for estimating EV charging costs and comparing efficiency 
 I am open to data analyst and analytics roles, particularly where technology and business insight intersect.
 
 - [LinkedIn](https://www.linkedin.com/in/paolovasta)
+- [Github](https://github.com/pakitt/data-analysis-portfolio)
 - [Email](mailto:pvjsie@icloud.com)
 - [CV](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/assets/Paolo%20Vasta%20-%20CV%20-%20Data%20Analyst.pdf)
 
@@ -87,7 +93,7 @@ I am open to data analyst and analytics roles, particularly where technology and
 
 ## 🪪 License
 
-© 2025 Paolo Vasta. All rights reserved.  
+© 2026 Paolo Vasta. All rights reserved.  
 
 The content of this repository is made publicly available for **viewing and educational reference only**.  
 **No reuse, modification, or redistribution** of any part of this repository is permitted without explicit written permission from the author.
