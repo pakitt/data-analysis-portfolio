@@ -1,0 +1,61 @@
+Car_Model,Sale,Location,Payment_Type,Transaction_Date,Customer_ID,Card_ID
+Tesla Model S,14500,Guildford,Cash,2024-12-05,CUST_4,CARD_4
+BMW 3 Series,14500,Epsom,Card,2024-08-12,CUST_11,CARD_1
+Audi A4,13500,Woking,Card,2024-09-15,CUST_7,CARD_1
+Tesla Model S,13000,Epsom,Cash,2024-12-05,CUST_3,CARD_3
+Audi A4,13500,Woking,Card,2024-12-05,CUST_4,CARD_1
+Ford Mustang,13500,Woking,Cash,2024-08-12,CUST_3,CARD_2
+Toyota Corolla,13000,Guildford,Cash,2024-10-20,CUST_18,CARD_5
+Ford Mustang,13500,Guildford,Card,2024-11-01,CUST_11,CARD_1
+Tesla Model S,13500,Redhill,Card,2024-08-12,CUST_13,CARD_1
+Honda Civic,12500,Woking,Cash,2024-08-12,CUST_19,CARD_2
+Tesla Model S,13500,Redhill,Card,2024-08-12,CUST_34,CARD_1
+Tesla Model S,14500,Guildford,Cash,2024-12-05,CUST_28,CARD_4
+Toyota Corolla,13000,Guildford,Cash,2024-10-20,CUST_2,CARD_5
+BMW 3 Series,14500,Epsom,Card,2024-08-12,CUST_6,CARD_1
+Honda Civic,12500,Woking,Cash,2024-08-12,CUST_24,CARD_2
+Honda Civic,12500,Woking,Cash,2024-08-12,CUST_30,CARD_2
+Tesla Model S,13500,Woking,Card,2024-09-15,CUST_16,CARD_1
+Honda Civic,12500,Woking,Cash,2024-08-12,CUST_22,CARD_2
+Tesla Model S,13500,Woking,Card,2024-09-15,CUST_2,CARD_1
+Ford Mustang,13500,Woking,Cash,2024-08-12,CUST_10,CARD_2
+Tesla Model S,13000,Epsom,Cash,2024-12-05,CUST_15,CARD_3
+Ford Mustang,13500,Woking,Cash,2024-08-12,CUST_5,CARD_2
+BMW 3 Series,14500,Epsom,Card,2024-08-12,CUST_16,CARD_1
+Ford Mustang  ,23500,Woking,Cash,2024-08-12,CUST_12,CARD_2
+Ford Mustang,23500,Woking,Cash,2024-08-12,CUST_2,CARD_2
+Tesla Model S,23500,Redhill,Card,2024-08-12,CUST_37,CARD_1
+Ford Mustang,23500,Guildford,Card,2024-11-01,CUST_8,CARD_1
+Honda Civic,12500,Woking,Cash,2024-08-12,CUST_20,CARD_2
+Ford Mustang,23500,Guildford,Card,2024-11-01,CUST_29,CARD_1
+Toyota Corolla,13000,Guildford,Cash,2024-10-20,CUST_36,CARD_5
+Tesla Model S,14500,Guildford,Cash,2024-12-05,CUST_37,CARD_4
+Ford Mustang,23500,Woking,Cash,2024-08-12,CUST_39,CARD_2
+Ford Mustang,33500,Guildford,Card,2024-11-01,CUST_23,CARD_1
+Tesla Model S,3500,Redhill,Card,2024-08-12,CUST_32,CARD_1
+Ford Mustang,33500,Guildford,Card,2024-11-01,CUST_26,CARD_1
+Toyota Corolla,13000,Guildford,Cash,2024-10-20,CUST_1,CARD_5
+Tesla Model S,13500,Woking,Card,2024-09-15,CUST_33,CARD_1
+Honda Civic,12500,Woking,Cash,2024-08-12,CUST_14,CARD_2
+Tesla Model S,23500,Woking,Card,2024-12-05,CUST_20,CARD_1
+BMW 3 Series,14500,Epsom,Card,2024-08-12,CUST_33,CARD_1
+Ford Mustang,23500,Woking,Cash,2024-08-12,CUST_21,CARD_2
+Tesla Model S,23500,Woking,Card,2024-12-05,CUST_9,CARD_1
+Tesla Model S,23000,Epsom,Cash,2024-12-05,CUST_27,CARD_3
+Tesla Model S,14500,Guildford,Cash,2024-12-05,CUST_30,CARD_4
+Tesla Model S,13500,Redhill,Card,2024-08-12,CUST_33,CARD_1
+BMW 3 Series,24500,Epsom,Card,2024-08-12,CUST_24,CARD_1
+Toyota Corolla,13000,Guildford,Cash,2024-10-20,CUST_24,CARD_5
+Tesla Model S,13500,Woking,Card,2024-09-15,CUST_22,CARD_1
+Tesla Model S,13000,Epsom,Cash,2024-12-05,CUST_35,CARD_3
+Honda Civic,12500,Woking,Cash,2024-08-12,CUST_16,CARD_2
+BMW 3 Series,24500,Epsom,Card,2024-08-12,CUST_17,CARD_1
+Tesla Model S,3500,Woking,Card,2024-12-05,CUST_31,CARD_1
+Ford Mustang,23500,Woking,Cash,2024-08-12,CUST_8,CARD_2
+Ford Mustang,13500,Woking,Cash,2024-08-12,CUST_35,CARD_2
+Ford Mustang,23500,Woking,Cash,2024-08-12,CUST_10,CARD_2
+Tesla Model S,23500,Woking,Card,2024-09-15,CUST_25,CARD_1
+Tesla Model S,13500,Woking,Card,2024-12-05,CUST_38,CARD_1
+BMW 3 Series,24500,Epsom,Card,2024-08-12,CUST_2,CARD_1
+Tesla Model S,23500,Woking,Card,2024-12-05,CUST_9,CARD_1
+Tesla Model S,24500,Guildford,Cash,2024-12-05,CUST_17,CARD_4
