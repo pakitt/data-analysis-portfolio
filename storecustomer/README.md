@@ -90,9 +90,11 @@ This is a deliberate analytical choice.
 
 ---
 
-## Dashboard & analysis file
+## Python code, Power BIdashboard & analysis file
 
-The complete interactive Power BI report is available here and includes route comparisons, time-of-day analysis, and vehicle efficiency breakdowns:  
+- The Python code is available here:  
+👉 **[Privacy-First Sales Analytics Pilot (Car Dealership) (Python)](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/refs/heads/main/storecustomer/src/dataingestion-anonymization.py)**
+- The complete interactive Power BI report is available here and includes route comparisons, time-of-day analysis, and vehicle efficiency breakdowns:  
 👉 **[Privacy-First Sales Analytics Pilot (Car Dealership) (Power BI)](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/storecustomer/powerbi/Individual%20Project%20Dashboard.pbix)**
 
 ---
