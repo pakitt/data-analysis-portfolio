@@ -93,7 +93,7 @@ This is a deliberate analytical choice.
 ## Dashboard & analysis file
 
 The complete interactive Power BI report is available here and includes route comparisons, time-of-day analysis, and vehicle efficiency breakdowns:  
-👉 **[Fuel consumption & commute analysis (Power BI)](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/storecustomer/powerbi/Individual%20Project%20Dashboard.pbix)**
+👉 **[Privacy-First Sales Analytics Pilot (Car Dealership) (Power BI)](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/storecustomer/powerbi/Individual%20Project%20Dashboard.pbix)**
 
 ---
 
