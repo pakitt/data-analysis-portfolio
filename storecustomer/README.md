@@ -90,7 +90,7 @@ This is a deliberate analytical choice.
 
 ---
 
-## Python code, Power BIdashboard & analysis file
+## Python code, Power BI dashboard & analysis file
 
 - The Python code is available here:  
 👉 **[Privacy-First Sales Analytics Pilot (Car Dealership) (Python)](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/refs/heads/main/storecustomer/src/dataingestion-anonymization.py)**
