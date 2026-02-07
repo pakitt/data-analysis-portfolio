@@ -1,7 +1,8 @@
 # Privacy-First Sales Analytics Pilot (Car Dealership)
 
 ## Overview
-![Power BI dashboard overview](storecustomer/images/dashboard_overview.png)
+![Power BI dashboard overview](https://github.com/pakitt/data-analysis-portfolio/blob/main/storecustomer/images/dashboard_overview.png)
+
 Proof-of-concept analytics pipeline and dashboard built during the *[Generation UK & Ireland] (https://ireland.generation.org/)* placement period (December 2025 - May 2026).  
 The project demonstrates how a multi-branch car dealership can analyze sales performance and customer behavior **without exposing any personally identifiable information (PII)**.
 
@@ -34,7 +35,7 @@ Consistent with my earlier fuel / EV analytics project:
 ---
 
 ## Architecture
-![Data pipeline and anonymization flow](storecustomer/images/pipeline_arch.png)
+![Data pipeline and anonymization flow](https://github.com/pakitt/data-analysis-portfolio/blob/main/storecustomer/images/pipeline_arch.png)
 **Toolchain (intentionally minimal):**
 - **Python** – ingestion, parsing, anonymization, export
 - **Power BI** – visualization and exploratory analysis
