@@ -2,7 +2,7 @@
 ## Cost, efficiency, and travel-time analysis using longitudinal real-world data
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/assets/hero-dashboard.png" width="600" alt="Fuel consumption and commute analysis - Power BI dashboard">
+  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/fueltracking/images/hero-dashboard.png" width="600" alt="Fuel consumption and commute analysis - Power BI dashboard">
 </p>
 
 ## Project snapshot
@@ -43,7 +43,7 @@ Excel (data collection), Power BI (data modeling & visualization)
 
 ### Did petrol hybrids reduce commute fuel costs compared to diesel?
 <p align="left">
-  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/assets/fuel-cost-comparison.png" width="500" alt="Fuel cost comparison">
+  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/fueltracking/images/fuel-cost-comparison.png" width="500" alt="Fuel cost comparison">
 </p>
 
 **Finding:**  
@@ -53,7 +53,7 @@ Petrol hybrids consistently reduced fuel cost per commute, even under dense urba
 
 ### How does time of day affect commute duration?
 <p align="left">
-  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/assets/commute_time_by_hour.png" width="500" alt="Commute time by hour">
+  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/fueltracking/images/commute_time_by_hour.png" width="500" alt="Commute time by hour">
 </p>
 
 **Finding:**  
@@ -63,7 +63,7 @@ Leaving home or the office has a significant impact on commute time, even during
 
 ### Which route performed best?
 <p align="left">
-  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/assets/route_comparison.png" width="500" alt="Route comparison">
+  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/fueltracking/images/route_comparison.png" width="500" alt="Route comparison">
 </p>
 
 **Finding:**  
@@ -73,7 +73,7 @@ Alternative routes offered measurable trade-offs between time and fuel efficienc
 
 ### Did newer hybrid generations improve efficiency?
 <p align="left">
-  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/assets/gen3_gen4_comparison.png" width="500" alt="Route comparison">
+  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/fueltracking/images/gen3_gen4_comparison.png" width="500" alt="Route comparison">
 </p>
 
 **Finding:**  
@@ -83,7 +83,7 @@ The 4th generation Prius delivered incremental fuel efficiency gains over the 3r
 
 ### Do seasonal factors matter?
 <p align="left">
-  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/assets/temperature_consumption.png" width="500" alt="Temperature vs consumption comparison">
+  <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/fueltracking/images/temperature_consumption.png" width="500" alt="Temperature vs consumption comparison">
 </p>
 
 **Finding:**  
