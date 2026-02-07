@@ -6,7 +6,7 @@
     <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/storecustomer/images/dashboard_overview.png" width="600" alt="Privacy-First Sales Analytics Pilot - Power BI dashboard">
 </p>
 
-Proof-of-concept analytics pipeline and dashboard built during the *[Generation UK & Ireland] (https://ireland.generation.org/)* placement period (December 2025 - May 2026).  
+Proof-of-concept analytics pipeline and dashboard built during the *[Generation UK & Ireland](https://ireland.generation.org/)* placement period (December 2025 - May 2026).  
 The project demonstrates how a multi-branch car dealership can analyze sales performance and customer behavior **without exposing any personally identifiable information (PII)**.
 
 The emphasis is on **process, data governance, and analytical reasoning**, not on statistical depth.
