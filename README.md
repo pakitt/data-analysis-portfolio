@@ -61,7 +61,7 @@ Supporting tools and environments:
   <img src="fueltracking/images/Fuelconsumption-SampleChart.png" width="600" alt="Fuel efficiency chart">
 </p>
 
-2. [**🔒 Privacy-First Sales Analytics Pilot (Car Dealership)**](https://github.com/pakitt/data-analysis-portfolio/tree/main/privacy-first-sales)
+2. [**🔒 Privacy-First Sales Analytics Pilot (Car Dealership)**](https://github.com/pakitt/data-analysis-portfolio/tree/main/storecustomer)
 
   **Goal:**  
   Build a proof-of-concept analytics pipeline to visualize multi-store sales performance and customer buying behavior while ensuring **PII is removed at ingestion** and never exposed in BI tools.
