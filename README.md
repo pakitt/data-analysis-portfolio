@@ -54,7 +54,7 @@ Supporting tools and environments:
   Excel, Power BI
   
   **Explore:**
-  - [Power BI Desktop file](https://github.com/pakitt/data-analysis-portfolio/blob/main/fueltracking/Fuel%20consumption%20tracking.pbix)
+  - [Power BI Desktop file](https://github.com/pakitt/data-analysis-portfolio/fueltracking/Fuel%20consumption%20tracking.pbix)
   - Sample visualization:
  
 <p align="center">
