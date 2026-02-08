@@ -82,7 +82,7 @@ Supporting tools and environments:
       <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/storecustomer/images/dashboard_overview.png" width="600" alt="Privacy-First Sales Analytics Pilot - Power BI dashboard">
   </p>
 
-3.  [**🚗 iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/main/ios)
+3.  [**🚗 iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
 
 Swift-based prototype for estimating EV charging costs and comparing efficiency metrics using user-input and consumption data.
 
