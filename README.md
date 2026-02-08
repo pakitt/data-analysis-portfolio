@@ -61,7 +61,28 @@ Supporting tools and environments:
   <img src="assets/Fuelconsumption-SampleChart.png" width="600" alt="Fuel efficiency chart">
 </p>
 
-2.  [**🚗 iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
+2. [**🔒 Privacy-First Sales Analytics Pilot (Car Dealership)**](https://github.com/pakitt/data-analysis-portfolio/tree/main/privacy-first-sales)
+
+  **Goal:**  
+  Build a proof-of-concept analytics pipeline to visualize multi-store sales performance and customer buying behavior while ensuring **PII is removed at ingestion** and never exposed in BI tools.
+
+  **What I focused on:**  
+  Privacy-by-design ETL, analytical reasoning (fixed markup → profit ≈ revenue), scalable pipeline design, and effective dashboards.
+
+  **Tools:**  
+  Python (ingestion, parsing, anonymization), Power BI (visualization)
+
+  **Explore:**  
+  - Python data ingestion & anonymization pipeline:  
+👉 **[Privacy-First Sales Analytics Pilot (Car Dealership) (Python)](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/refs/heads/main/storecustomer/src/dataingestion-anonymization.py)**
+  - Power BI dashboard (local pilot):  
+👉 **[Privacy-First Sales Analytics Pilot (Car Dealership) (Power BI)](https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/storecustomer/powerbi/Individual%20Project%20Dashboard.pbix)**
+
+  <p align="center">
+      <img src="https://raw.githubusercontent.com/pakitt/data-analysis-portfolio/main/storecustomer/images/dashboard_overview.png" width="600" alt="Privacy-First Sales Analytics Pilot - Power BI dashboard">
+  </p>
+
+3.  [**🚗 iOS App for EV Data and Cost Estimation**](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)
 
 Swift-based prototype for estimating EV charging costs and comparing efficiency metrics using user-input and consumption data.
 
