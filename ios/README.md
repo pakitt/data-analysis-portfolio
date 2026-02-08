@@ -36,7 +36,7 @@ The [EV Companion app](https://github.com/pakitt/data-analysis-portfolio/tree/ma
 ## Project files
 
 The source code and supporting assets are available here:  
-👉 **[EV Data & Cost Estimation iOS App](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios)**
+👉 **[EV Data & Cost Estimation iOS App](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios/EV-Companion)**
 
 ---
 
