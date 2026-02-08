@@ -58,7 +58,7 @@ Supporting tools and environments:
   - Sample visualization:
  
 <p align="center">
-  <img src="assets/Fuelconsumption-SampleChart.png" width="600" alt="Fuel efficiency chart">
+  <img src="fueltracking/images/Fuelconsumption-SampleChart.png" width="600" alt="Fuel efficiency chart">
 </p>
 
 2. [**🔒 Privacy-First Sales Analytics Pilot (Car Dealership)**](https://github.com/pakitt/data-analysis-portfolio/tree/main/privacy-first-sales)
