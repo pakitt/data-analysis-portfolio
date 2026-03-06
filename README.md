@@ -86,10 +86,6 @@ Supporting tools and environments:
 
 Swift-based prototype for estimating EV charging costs and comparing efficiency metrics using user-input and consumption data.
 
-<p align="center">
-  <img width="276" height="528" alt="EVCompanionApp - Charging Costs - Good" src="https://github.com/user-attachments/assets/868ccc35-93eb-49a0-8703-f62c02ce1cdb" />
-</p>
-
 ---
 
 ## 💡 Focus Areas & Analytical Edge
