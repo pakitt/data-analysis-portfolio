@@ -32,7 +32,7 @@ Primary focus:
 
 Supporting tools and environments:
 - SQL (foundations & **data handling**; Microsoft SQL Server)
-- Swift & Xcode (iOS prototyping), Visual Studio (Python scripting)
+- Visual Studio (Python scripting)
 - GitHub, Jira
 - macOS, Linux, Windows
 
