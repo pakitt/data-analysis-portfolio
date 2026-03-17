@@ -22,7 +22,7 @@ I focus on extracting practical value from real-world data using Python, SQL, an
 
 --- -->
 
-## 🔬 Interests, Tools & Technlogies
+## 🔬 Interests, Tools & Technologies
 
 Primary focus:
 - **ETL**
