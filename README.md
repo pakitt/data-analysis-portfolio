@@ -88,7 +88,7 @@ Swift-based prototype for estimating EV charging costs and comparing efficiency 
 
    **Tools:** Swift, SwiftUI
 
-4. [**🐷 FireflyDash — Pay-Period Personal Finance Dashboard (macOS)**](https://github.com/pakitt/FireflyDash)
+4. [**🐷 FireflyDash: a Pay-Period-Friendly Firefly III Dashboard for macOS**](https://github.com/pakitt/FireflyDash)
 
 Native SwiftUI app that reframes data synced from a self-hosted Firefly III server, using its API calls, around the pay period rather than the calendar month. Projecting safe-to-spend, essential bills still due, and savings-goal pacing from raw transaction history. .
 
