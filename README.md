@@ -86,6 +86,12 @@ Supporting tools and environments:
 
 Swift-based prototype for estimating EV charging costs and comparing efficiency metrics using user-input and consumption data.
 
+4. [**🐷 FireflyDash — Pay-Period Personal Finance Dashboard (macOS)**](https://github.com/pakitt/FireflyDash)
+
+Native SwiftUI app that reframes data synced from a self-hosted Firefly III server, using its API calls, around the pay period rather than the calendar month. Projecting safe-to-spend, essential bills still due, and savings-goal pacing from raw transaction history. Built with Claude Code, but every metric definition and estimator was mine to specify and validate: I redesigned the recurring-bill detector after noticing it lagged real price changes by up to a year, and rewrote the savings-goal tracker after catching a formula that didn't reach zero even when a goal was fully funded.
+
+  **Tools:** Swift, SwiftUI, SwiftData, REST APIs
+
 ---
 
 ## 💡 Focus Areas & Analytical Edge
